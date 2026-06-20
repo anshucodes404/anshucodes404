@@ -8,7 +8,6 @@ Backend-focused developer building scalable web applications using Java, Node.js
 
 *   🌍  I'm based in Odisha, India
 *   ✉️  You can contact me at [anshukr95086@gmail.com](mailto:anshukr95086@gmail.com)
-*   🚀  I'm currently working on [HackHub](http://hack-hub-two.vercel.app/)
 *   🧠  I'm currently learning Rust, SpringBoot
 
                   
